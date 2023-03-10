@@ -1,7 +1,7 @@
-![MasterHead](https://images.hdqwalls.com/download/code-minimalism-1600x900.jpg)
+![MasterHead](https://r.resimlink.com/ZXP1NTnD.jpg?v=071d2645118c6ecc9d22ad50ca24ef16)
 <h1 align="center">Hi 👋, I'm Baris</h1>
 <h3 align="center">A passionate C# developer!</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47w9xl2hc9tv8e05i9gyzwswlozv1ej58xonz8px8b&rid=giphy.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif?cid=ecf05e470xedtzcktoitfeyckdrnumpxdssyehlwt1zsmcjn&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-xpeace&label=Profile%20views&color=0e75b6&style=flat" alt="dev-xpeace" /> </p>
 
